@@ -1,6 +1,0 @@
-git clone (clonar)
-git add .     (sube los ficheros de la carpeta)
-git commit -a -m  ""        (punto de guardado)    
-git diff     (ver los movimientos)
-git pull     (subir repositorio)
-git push      (quitar repositorio)
