@@ -1,0 +1,6 @@
+<?php
+$a=9;
+$b=6;
+echo >adicion<($a+$b);
+echo >sustraccion<($a-$b);
+echo '<br/>'
