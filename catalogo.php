@@ -16,7 +16,7 @@ echo "<a href='https://github.com/MarioAlonso31info/asir1_mario' target=_blank>M
 echo "<a href='https://github.com/bruno38pla/ASIR1_BRUNO' target=_blank>Bruno</a>";
 echo "<a href='https://github.com/AlejandroGoVi/asir1_alex' target=_blank>Alex</a>";
 echo "<a href='https://github.com/carlosccsan/asir1-cc' target=_blank>Carlos</a>";
-echo "<a href='https://github.com/gargiljavi' target=_blank>Javi (YO)</a>";
+echo "<a href='https://github.com/gargiljavi' target=_blank>Javi</a>";
 echo "<a href='https://github.com/sergiosamperio/asir1_sergio' target=_blank>Sergio</a>";
 echo "<a href='https://github.com/draseld/asir1_luis' target=_blank>Luis</a>";
 echo "<a href='https://github.com/alejandro-vgr/asir176' target=_blank>Alejandro</a>";
