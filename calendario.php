@@ -3,7 +3,7 @@ function mes($n){
 	$a=[
 	[
 	'mes'=>'Enero',
-	'dias'=>'3',
+	'dias'=>'31',
 	'estacion'=>'Verano'
 	],
 	[
