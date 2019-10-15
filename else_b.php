@@ -7,7 +7,7 @@ function nota($a){
 	if($a>=7){
 	$r='notable';
 	}
-	if($a>=10)
+	if($a>=8.5)
 	$r='Sobresaliente';
 	
 	return $r;
