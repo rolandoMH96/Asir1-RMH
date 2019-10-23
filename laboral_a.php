@@ -27,19 +27,18 @@ echo '</pre>';
 */
 foreach($r as $f){
 	echo '<tr>';
-	// día año
 	echo '<td>';
 	echo $f['n'];
 	echo '</td>';	
-	// día semana
+
 	echo '<td>';
 	echo $f['s'];
 	echo '</td>';
-	// fecha
+
 	echo '<td>';
 	echo $f['fecha'];
 	echo '</td>';	
-	// día de la semana
+
 	echo '<td>';
 	echo $f['D'];
 	echo '</td>';	
