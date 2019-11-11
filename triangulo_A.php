@@ -10,6 +10,6 @@
 		return $r;
 	}
 	echo longitud(5,5,5)."<br>";
-	echo longitud(6,6,9)."<br>";
-	echo longitud(7,8,9);
+	echo longitud(2,2,1)."<br>";
+	echo longitud(2,4,5);
 ?>
