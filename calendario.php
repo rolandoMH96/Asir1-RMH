@@ -72,9 +72,9 @@ function mes($n){
 	return $r;
 
 } 
-echo mes (2).'<br>';
-echo mes (5).'<br>';
-echo mes (12).'<br>';
-echo mes (3);
+echo mes (2).'<br>'.'Febrero'.'<br>'; 
+echo mes (5).'<br>'.'Mayo'.'<br>';
+echo mes (12).'<br>'.'Diciembre'.'<br>';
+echo mes (3).'<br>'.'Abril';
 ?>
 	
