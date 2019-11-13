@@ -3,7 +3,7 @@
 <head>
 	<title>Blessed and Cursed Cats</title>
 	<meta charset="utf-8">
-	<meta name="description" content="En este post...">
+
 </head>
 <body bgcolor=#CEF6CE>
 <center>
