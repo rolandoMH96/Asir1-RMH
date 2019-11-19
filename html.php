@@ -1,5 +1,10 @@
-<!docrtype html>
+<!doctype html>
 <html lang="es">
+<center>
+<table width="90%">
+<tr>
+
+<td>
 <head>
 	<title>Blessed and Cursed Cats</title>
 	<meta charset="utf-8">
@@ -42,8 +47,8 @@
 </font>
 	<table border="1">
 	<tr>
-		<td><strong><center>Ventajas</center></strong></td>
-		<td><strong><center>Desventajas</center></strong></td>
+		<td><b><center>Ventajas</center></b></td>
+		<td><b><center>Desventajas</center></b></td>
 	</tr>
 	<tr>
 		<td>Salvas la vida de un sin techo</td>
@@ -63,14 +68,22 @@
 	<tr>
 	</table>
 <br>
- <center><font size="5">Más razones para amar a los gatos</font></center>
+ <center><b><font size="5">Más razones para amar a los gatos</font></b></center>
  </br>
  <center>
  <img src="img5.jpg" width="300" height="290">  <img src="img6.jpg" width="300" height="290">  <img src="img7.jpg" width="300" height="290">
  </center>
- <h2>no lo pienses más</h2>
- <h3> adopta uno</h3>
- <h4>ahora!!!!</h4>
-
+ <br>
+ <h2>Primer gato famoso</h2>.<img src="img8.jpg" width="300" height="290">
+ <h3>Grumpy cat<h3>
+ <h4>2012</h4>
+ </br>
+ 
+ <h2>Famoso de hoy</h2>
+ <img src="img9.jpg" width="300" height="290">
+ <h3>Smudge Lord</h3>
+ <h4>2019</h4>
 </body>
+</td></tr>
+</table></center>
 </html>

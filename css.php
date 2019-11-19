@@ -3,6 +3,7 @@
 <head>
 	<title>Blessed and Cursed Cats</title>
 	<meta charset="utf-8">
+	 <link rel="stylesheet" href="css.php" type="text/css" media="all">
 </head>
 <body bgcolor=#CEF6CE>
 <center>
