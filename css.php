@@ -1,4 +1,4 @@
-<!docrtype html>
+<!doctype html>
 <html lang="es">
 <head>
 	<title>Blessed and Cursed Cats</title>
