@@ -1,11 +1,17 @@
 <!doctype html>
 <html lang="es">
 <head>
+
 	<title>Blessed and Cursed Cats</title>
 	<meta charset="utf-8">
 	 <link rel="stylesheet" href="css.php" type="text/css" media="all">
 </head>
-<body bgcolor=#CEF6CE>
+<style>
+	body { Margin-top : 2.6% ;
+			margin-left: 5.8%;} 
+	body {background-color: #CEF6CE;}
+</style>
+
 <center>
 	<h1><u>Blessed/Cursed Cats</u></h1>
 	</center>
@@ -42,8 +48,8 @@
 </font>
 	<table border="1">
 	<tr>
-		<td><strong><center>Ventajas</center></strong></td>
-		<td><strong><center>Desventajas</center></strong></td>
+		<td><b><center>Ventajas</center></b></td>
+		<td><b><center>Desventajas</center></b></td>
 	</tr>
 	<tr>
 		<td>Salvas la vida de un sin techo</td>
@@ -68,9 +74,18 @@
  <center>
  <img src="img5.jpg" width="300" height="290">  <img src="img6.jpg" width="300" height="290">  <img src="img7.jpg" width="300" height="290">
  </center>
- <h2>no lo pienses más</h2>
- <h3> adopta uno</h3>
- <h4>ahora!!!!</h4>
-
+ <br>
+ <h2>Primer gato famoso</h2>
+ <img src="img8.jpg" width="300" height="290">
+ <h3>Grumpy cat<h3>
+ <h4>2012</h4>
+ </br>
+ 
+ <h2>Famoso de hoy</h2>
+ <img src="img9.jpg" width="300" height="290">
+ <h3>Smudge Lord</h3>
+ <h4>2019</h4>
 </body>
+</td></tr>
+</table></center>
 </html>
