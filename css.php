@@ -7,9 +7,11 @@
 	 <link rel="stylesheet" href="css.php" type="text/css" media="all">
 </head>
 <style>
-	body { Margin-top : 2.6% ;
-			margin-left: 5.8%;} 
-	body {background-color: #CEF6CE;}
+	body {
+		Margin-top : 2.6% ;
+		margin-left: 5.8%;
+		background-color: #CEF6CE;
+} 
 </style>
 
 <center>
@@ -48,8 +50,8 @@
 </font>
 	<table border="1">
 	<tr>
-		<td><b><center>Ventajas</center></b></td>
-		<td><b><center>Desventajas</center></b></td>
+		<td style=font-weight:bold align=center>Ventajas</td>
+		<td style=font-weight:bold align=center>Ventajas</td>
 	</tr>
 	<tr>
 		<td>Salvas la vida de un sin techo</td>

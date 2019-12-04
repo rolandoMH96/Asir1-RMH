@@ -27,8 +27,7 @@
 	<center>
 	<h3>Gatos en internet</h3>
 	<img src="img1.jpg" width="300" height="290"> <img src="img2.jpg" width="300" height="290"> <img src="img4.jpg" width="300" height="290">
-</center>
-<center>
+	
 <h3>¿Que nombres te gustan para los gatos?</h3>
 
 <br>
@@ -83,7 +82,7 @@
  <img src="img9.jpg" width="300" height="290">
  <h3>Smudge Lord</h3>
  <h4>2019</h4>
-</body>
 </td></tr>
 </table></center>
+</body>
 </html>
