@@ -8,7 +8,7 @@
 <head>
 	<title>Blessed and Cursed Cats</title>
 	<meta charset="utf-8">
-
+<head/>
 
 <body bgcolor=#CEF6CE>
 <center>
@@ -73,10 +73,10 @@
  <br/>
  <center>
  <img src="img5.jpg" width="300" height="290">  <img src="img6.jpg" width="300" height="290">  <img src="img7.jpg" width="300" height="290">
- </center>
+ <center/>
  <br>
  <h2>Primer gato famoso</h2>.<img src="img8.jpg" width="300" height="290">
- <h3>Nombre: Grumpy cat<h3>
+ <h3>Nombre: Grumpy cat</h3>
  <h4>Año de origen 2012</h4>
  <br/>
  
@@ -85,7 +85,7 @@
  <h3>Nombre: Smudge Lord</h3>
  <h4>Año de origen 2019</h4>
 </body>
-</td></tr>
+<td/></tr>
 </table></center>
-</head>
+
 </html>
