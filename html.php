@@ -36,8 +36,8 @@
 <form>
 
  <br> Aqui el nombre:
-<input type="text" name="name"><br><br>
-<input type="submit" name="submit" value="listo"><br>
+<input type="text" name="name"><br></br>
+<input type="submit" name="submit" value="listo"></br>
 </form>
 </center>
 </br>
