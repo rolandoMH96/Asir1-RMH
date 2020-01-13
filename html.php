@@ -85,7 +85,7 @@
  <h3>Nombre: Smudge Lord</h3>
  <h4>Año de origen 2019</h4>
 </body>
-<td/></tr>
+<td/><tr/>
 </table></center>
 
 </html>
